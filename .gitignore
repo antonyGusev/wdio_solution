@@ -1,0 +1,5 @@
+/node_modules
+/allure-results
+/test.data/actual.images
+/screenshots
+.env
